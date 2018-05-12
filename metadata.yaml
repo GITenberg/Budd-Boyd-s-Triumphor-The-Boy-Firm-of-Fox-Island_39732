@@ -1,0 +1,32 @@
+_repo: Budd-Boyd-s-Triumphor-The-Boy-Firm-of-Fox-Island_39732
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39732-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Chipman, William P. (William Pendleton)
+    alias: Chipman, William Pendleton
+    gutenberg_agent_id: '40183'
+    url: http://www.gutenberg.org/2009/agents/40183
+description: ''
+gutenberg_issued: '2012-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39732'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Fishing -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Avarice -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Diligence -- Juvenile fiction'
+title: Budd Boyd's Triumph; or, The Boy-Firm of Fox Island
+url: http://www.gutenberg.org/ebooks/39732
