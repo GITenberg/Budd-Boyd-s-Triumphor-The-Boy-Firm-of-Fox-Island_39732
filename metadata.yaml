@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40183'
     url: http://www.gutenberg.org/2009/agents/40183
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39732#Budd-Boyd-s-Triumphor-The-Boy-Firm-of-Fox-Island
 gutenberg_issued: '2012-05-18'
 gutenberg_type: Text
 identifiers:
